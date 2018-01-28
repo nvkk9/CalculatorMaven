@@ -3,6 +3,7 @@ package ch.bbw;
 /**
  * Calculator
  * 	- summe() --> addiert 2 Zahlen
+ * 
  * @author Nik Bertschinger
  * @version 0.0.1
  * */
